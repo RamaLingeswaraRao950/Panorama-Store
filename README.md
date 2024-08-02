@@ -1,7 +1,7 @@
 ### Panorama Store
 ***Panorama Store*** is a comprehensive e-commerce platform that offers a wide variety of products across multiple categories including:
 
-Mobiles, Computers, Watches, Men's Wear, Women's Wear, Furniture, Kitchen Appliances, Refrigerators, Books, Speakers, TVs, ACs
+Mobiles, Computers, Watches, Furniture, Kitchen Appliances, Refrigerators, Speakers, TVs, ACs, Men's Wear, Women's Wear, Books.
 
 ### Features
 - **Cart Management**

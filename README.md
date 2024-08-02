@@ -1,5 +1,4 @@
-*****Panorama Store*****
-
+### Panorama Store
 ***Panorama Store*** is a comprehensive e-commerce platform that offers a wide variety of products across multiple categories including:
 
 Mobiles, Computers, Watches, Men's Wear, Women's Wear, Furniture, Kitchen Appliances, Refrigerators, Books, Speakers, TVs, ACs
@@ -17,7 +16,6 @@ Mobiles, Computers, Watches, Men's Wear, Women's Wear, Furniture, Kitchen Applia
 - **HTML5**
 
 ### Installation and Setup
-
 1. Clone the repository:   https://github.com/RamaLingeswaraRao950/Panorama-Store.git
 2. Navigate to the project directory:   cd panorama-store
 3. Install the dependencies:   npm install
